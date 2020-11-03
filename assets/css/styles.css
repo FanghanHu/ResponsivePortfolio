@@ -1,0 +1,11 @@
+.text-lg {
+    font-size: 1.5em;
+}
+
+p {
+    text-indent: 2em;
+}
+
+.merriweather {
+    font-family: 'Merriweather', serif;
+}
